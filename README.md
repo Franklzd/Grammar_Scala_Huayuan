@@ -1,1 +1,1 @@
-# Grammar_Scala
+The program only for scala grammar
